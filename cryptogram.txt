@@ -1,0 +1,38 @@
+a	q																										
+b	s																										
+c	e																										
+d	r																										
+e	d																										
+f	g																										
+g																											
+h																											
+i	m																										
+j	u																										
+k	c																										
+l	p																										
+m																											
+n																											
+o																											
+p	i																										
+q	n																										
+r																											
+s																											
+t																											
+u	t																										
+v																											
+w	v																										
+x																											
+y	o																										
+z	a																										
+																											
+q	u	e	q	u	e																						
+a	j	c	a	j	c																						
+																											
+p	a	i	r		p	r	o	g	r	a	m	m	i	n	g												
+l	z	p	d	-	l	d	y	f	d	z	i	i	p	q	f												
+																											
+a	d	v	i	s	o	r		m	e	e	t	i	n	g	s												
+z	e	w	p	b	y	d		i	c	c	u	p	q	f	b												
+																											
+m	e	s	s	a	g	e		i	n	s	t	r	u	c	t	o	r		o	r		m	e	n	t	o	r
+i	c	b	b	z	f	c		p	q	b	u	d	j	k	u	y	d		y	d		i	c	q	u	y	d
